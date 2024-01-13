@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "/home/roy/Desktop/glutProject",
+    "command": "clang++ -o try main.cpp menu.cpp multiplayer.cpp leaderboard.cpp connectfour.cpp singleplayer.cpp -lGL -lGLU -lglut -lsqlite3",
+    "file": "main.cpp"
+  },
+  {
+    "directory": "/home/roy/Desktop/glutProject",
+    "command": "clang++ -o try main.cpp menu.cpp multiplayer.cpp leaderboard.cpp connectfour.cpp singleplayer.cpp -lGL -lGLU -lglut -lsqlite3",
+    "file": "leaderboard.cpp"
+  },
+  {
+    "directory": "/home/roy/Desktop/glutProject",
+    "command": "clang++ -o try main.cpp menu.cpp multiplayer.cpp leaderboard.cpp connectfour.cpp singleplayer.cpp -lGL -lGLU -lglut -lsqlite3",
+    "file": "menu.cpp"
+  },
+  {
+    "directory": "/home/roy/Desktop/glutProject",
+    "command": "clang++ -o try main.cpp menu.cpp multiplayer.cpp leaderboard.cpp connectfour.cpp singleplayer.cpp -lGL -lGLU -lglut -lsqlite3",
+    "file": "multiplayer.cpp"
+  },
+  {
+    "directory": "/home/roy/Desktop/glutProject",
+    "command": "clang++ -o try main.cpp menu.cpp multiplayer.cpp leaderboard.cpp connectfour.cpp singleplayer.cpp -lGL -lGLU -lglut -lsqlite3",
+    "file": "connectfour.cpp"
+  },
+  {
+    "directory": "/home/roy/Desktop/glutProject",
+    "command": "clang++ -o try main.cpp menu.cpp multiplayer.cpp leaderboard.cpp connectfour.cpp singleplayer.cpp -lGL -lGLU -lglut -lsqlite3",
+    "file": "singleplayer.cpp"
+  }
+]
