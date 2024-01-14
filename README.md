@@ -12,7 +12,7 @@ sudo apt update | sudo apt install sqlite3
 ![Menu](screenshots/menu.png)
 
 #### Single Player
-![Single Player](screenshots/single.png)
+![Single Player](screenshots/single.png)  
 Play against "Bot", spoiler : you will get destroyed.  
 The bot use the minimax algorithm to calculate the best move.  
 If you somehow Win, first of all congrats! Second, you can make it even harder.  
@@ -25,7 +25,7 @@ Use a text editer and change the value DEPTH in file *connectfour.cpp* at line 7
 
 #### Multi-Player
 ![Multi-Player](screenshots/multi1.png)
-![Multi-Player](screenshots/multi2.png)
+![Multi-Player](screenshots/multi2.png)  
 Play against your friends and familly!  
 Rank up in the Leaderboard.  
 
