@@ -154,7 +154,7 @@ int main(int argc, char** argv) {
 
   glutInitWindowPosition(200, 100);
   glutInitWindowSize(windowWidth, windowHeight);
-  glutCreateWindow("Tic Tac Toe");
+  glutCreateWindow("Connect4");
 
   MenuSystem::init(windowWidth, windowHeight);
 
